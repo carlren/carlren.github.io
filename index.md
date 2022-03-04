@@ -1,12 +1,7 @@
 ---
 ---
 
-Biography
-====
-
-My name is Yuheng (Carl) Ren, 任禹衡 in Chinese. I am a Manager of Research Science in Facebook Reality Labs (Previously known as Oculus Research). Before joining Facebook, I was a Senior Research Scientist in [**Fyusion, Inc.**](http://fyusion.com/), a San Francisco based startup company specialized in spatial photography. Before Fyusion, I worked as a Postdoc research fellow in the Oxford Torr Vision Group with Professor Phil Torr.  From 2010-2014, I did my DPhil (Oxford Ph.D) in Active Vision Group, University of Oxford under then supervision of Professor Ian Reid and Professor David Murray. From 2006-2010 I studied in Harbin Institute of Technology (China), where I received a BSc in Computer Science and Technology. My research interest 
-involve active vision, visual tracking, SLAM, and image-based rendering, with an emphasis on real-time implementations whenever possible.  
-[[**CV**](pdfs/CV_EN.pdf) / [**简历**](pdfs/CV_CN.pdf)]
+My name is Yuheng (Carl) Ren, 任禹衡 in Chinese. I am currently a Director of Research Engineering in [Reality Labs Research | Meta] (https://about.facebook.com/realitylabs/) (Previously known Facebook Reality Labs). Before joining Facebook, I was a Senior Research Scientist in [**Fyusion, Inc.**](http://fyusion.com/), a San Francisco based startup company specialized in spatial photography. Before Fyusion, I worked as a Postdoc research fellow in the Oxford Torr Vision Group with Professor Phil Torr. I did my DPhil (Oxford Ph.D) in [Active Vision Group, University of Oxford](https://www.robots.ox.ac.uk/~lav/) under then supervision of Professor Ian Reid and Professor David Murray. I studied in Harbin Institute of Technology (China), where I received a BSc in Computer Science and Technology. 
 
 ---
 
@@ -30,6 +25,10 @@ Publications
 ====
 
 See my list of publications in [**Google scholar**](https://scholar.google.co.uk/citations?user=Mf6PAuQAAAAJ&hl=en).
+
+- **The Replica dataset: A digital replica of indoor spaces**  
+[[pdf]](https://arxiv.org/abs/1906.05797)
+[[GitHub]](https://github.com/facebookresearch/Replica-Dataset)
 
 - **Implicit Shape Representation for Efficient 2D/3D Tracking and Reconstruction**  
 *Oxford DPhil Thesis*  
