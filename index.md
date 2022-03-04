@@ -25,7 +25,7 @@ Publications
 
 See my list of publications in [**Google scholar**](https://scholar.google.co.uk/citations?user=Mf6PAuQAAAAJ&hl=en).
 
-- **The Replica dataset: A digital replica of indoor spaces**
+- **The Replica dataset: A digital replica of indoor spaces**  
 Julian Straub, Thomas Whelan, Lingni Ma, Yufan Chen, Erik Wijmans, Simon Green, Jakob J. Engel, Raul Mur-Artal, **Carl Ren**, Shobhit Verma, Anton Clarkson, Mingfei Yan, Brian Budge, Yajie Yan, Xiaqing Pan, June Yon, Yuyang Zou, Kimberly Leon, Nigel Carter, Jesus Briales, Tyler Gillingham, Elias Mueggler, Luis Pesqueira, Manolis Savva, Dhruv Batra, Hauke M. Strasdat, Renzo De Nardi, Michael Goesele, Steven Lovegrove, Richard Newcombe
 [[pdf]](https://arxiv.org/abs/1906.05797)
 [[GitHub]](https://github.com/facebookresearch/Replica-Dataset)
